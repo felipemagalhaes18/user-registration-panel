@@ -15,7 +15,7 @@ Formulário de Cadastro
 
 Frontend
 
-- React.js
+- React.js (vite)
 - Javascript (para interatividade e validações).
 
 ## Como executar
